@@ -1,0 +1,5 @@
+network={
+	ssid="viral"
+	#psk="asdfghjkl"
+	psk=c238aef6a4f6eda80a08cbf21d5b07f879661c0c14ca99442eb64e44d4aa2e14
+}

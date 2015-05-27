@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo ip link set wlp0s26u1u4 up
+sudo wpa_supplicant -B -i wlp0s26u1u4 -c./v_hotspot
+sudo dhcpcd wlp0s26u1u4

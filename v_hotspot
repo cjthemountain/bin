@@ -1,0 +1,5 @@
+network={
+	ssid="Verizon-4GLTE-BRV-3BB0"
+	#psk="00fbec83"
+	psk=da217d6d126b7a693c7d474c539785df93e41d3bdc5e088c1fed58f7cffbeab9
+}
